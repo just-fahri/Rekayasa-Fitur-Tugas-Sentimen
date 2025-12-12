@@ -1,0 +1,35 @@
+1. Mayoritas komentar bersifat netral
+
+Grafik menunjukkan komentar netral mendominasi jauh lebih besar daripada sentimen positif dan negatif.
+Ini menunjukkan bahwa pengguna cenderung menyampaikan informasi atau fakta tanpa ekspresi emosi berlebihan.
+
+2. Komentar positif cukup sedikit
+
+Komentar positif terlihat jauh lebih sedikit.
+Ini berarti pengguna yang puas mungkin jarang mengekspresikan kepuasannya di review Google Play.
+
+3. Pengguna lebih sering menulis laporan masalah, bukan opini
+
+Karena banyak kalimat netral, kemungkinan besar pengguna menulis:
+
+-laporan kesalahan
+
+-status penggunaan
+
+-permintaan fitur
+tanpa nada marah atau memuji.
+
+4. Aplikasi cenderung stabil, tapi kurang memunculkan kepuasan pengguna
+
+Jumlah komentar negatif mungkin kecil, namun komentar positif juga rendah.
+Ini menandakan aplikasi tidak mendapat banyak keluhan besar, tetapi juga tidak memberikan pengalaman yang sangat memuaskan.
+
+5. Potensi perbaikan ada pada peningkatan pengalaman pengguna
+
+Karena komentar negatif rendah, fokus pengembangan aplikasi bisa diarahkan pada:
+
+-peningkatan UI/UX
+
+-peningkatan kecepatan dan stabilitas
+
+-memberikan fitur yang lebih menarik agar pengguna merasa puas
